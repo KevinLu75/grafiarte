@@ -1,4 +1,3 @@
-import React from 'react';
 import { Phone, Mail, MessageCircle, Clock, Calendar, MapPin, Camera, Globe } from 'lucide-react';
 
 export const Footer = () => {

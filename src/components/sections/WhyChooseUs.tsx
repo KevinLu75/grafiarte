@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Shield, Palette, HardHat, Gauge, Hammer, HeadphonesIcon, CheckCircle2 } from 'lucide-react';
 

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { MessageCircle, Camera, Menu, X } from 'lucide-react';
 
 export const Header = () => {

@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { MessageCircle, Camera, Smartphone, Clock, MapPin, ArrowUpRight } from 'lucide-react';
 import { Button } from '../ui/Button';

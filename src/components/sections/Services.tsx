@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Lightbulb, Truck, Maximize, Tent, GlassWater, ArrowRight } from 'lucide-react';
 
